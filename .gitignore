@@ -113,10 +113,8 @@ fabric.properties
 .idea/modules.xml
 app.js
 bin/
-Would skip repository fIRSTdIR/
-
 package.json
 public/
 routes/
 views/
-Would skip repository NodeTest/
+
